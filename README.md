@@ -1,6 +1,6 @@
 ### Hi there , I am Veli Erdinç SALAR👋
 
-<!--
+
 **velierdincsalar/velierdincsalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/veli-erdin%C3%A7-salar-49759882/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
