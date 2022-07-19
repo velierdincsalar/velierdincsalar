@@ -1,30 +1,118 @@
-# Hi there 👋
-I am **Veli Erdinç SALAR** I'm an Android 📱 Developer 💻 🇹🇷 <br>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-Here are some ideas to get you started:
+### <div align="center">I'm Veli, a full-time software developer 👨‍💻 working remotely since 2015 🚀</div>  
+  
 
-   I took my first step into coding with C in March 2009. 
-- 🔭 I’m currently working on Android IOT Project
-- 🌱 I’m currently learning React ,Redux , Nextjs ,Java Spring
+- 🔭 I’m currently working on Mobile Project (Android) [Github](https://github.com/#)  
+  
 
-## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
+- 🌱 I’m currently learning Spring & React  
+  
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=velierdincsalar&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=velierdincsalar&layout=compact&theme=dark" />
-</p>
+- ❓ Ask me about anything related to iot technologies  
+  
 
-## 📫 How 👀 to reach me 💁🏻‍♂️
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-get touch my accounts 
-
-[![LinkedIn Badge](https://img.shields.io/badge/Veli%20Erdin%C3%A7%20SALAR-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/veli-erdin%C3%A7-salar-49759882/)
-
-[![Twitter Badge](https://img.shields.io/badge/Veli%20Erdin%C3%A7%20SALAR-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/velierdincslr)
-
-[![Stackoverflow Badge](https://img.shields.io/badge/Veli%20Erdin%C3%A7%20SALAR-follow%20on%20stackoverflow-blue?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/12524253/veli-erdin%c3%a7-salar)
+<br/>  
 
 
-## 📝 How to access 🔓 blog post ✍🏻
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-[![Medium Badge](https://img.shields.io/badge/Veli%20Erdin%C3%A7%20SALAR-Medium-blue?style=for-the-badge&logo=medium)]([https://medium.com/@halilozel1903](https://medium.com/@velierdincsalar))
 
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/velierdincsalar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/veli-erdinç-salar-49759882" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/velierdincslr" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/velierdincslr" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=velierdincsalar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Spotify  
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jny0dk0tkkwu5podihr300zj0&cover_image=true&theme=default" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=velierdincsalar&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
