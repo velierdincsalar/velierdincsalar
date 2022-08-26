@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Veli, a full-time software developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">I'm Veli, a full-time software developer 👨‍💻 working since 2008 🚀</div>  
   
 
-- 🔭 I’m currently working on Mobile Project (Android) [Github](https://github.com/#)  
+- 🔭 I’m currently working on Mobile Project Private (Android) [Github](https://github.com/#)  
   
 
 - 🌱 I’m currently learning Spring & React  
