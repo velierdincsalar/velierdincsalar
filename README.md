@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Veli, a full-time software developer 👨‍💻 working since 2008 🚀</div>  
+### <div align="center">I'm Veli, a full-time software developer 👨‍💻 working since 2015 🚀</div>  
   
 
 - 🔭 I’m currently working on Mobile Project Private (Android) [Github](https://github.com/#)  
