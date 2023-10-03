@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on Mobile Project Private (Android) [Github](https://github.com/#)  
   
 
-- 🌱 I’m currently learning Spring & React  
+- 🌱 I’m currently learning Spring 
   
 
-- ❓ Ask me about anything related to iot technologies  
+- ❓ Ask me about anything related to backend technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
